@@ -1,0 +1,12 @@
+2006,1,1,BUY,FrontRunner NetNetNet Fund,50,10.00
+2006,6,15,SELL,FrontRunner NetNetNet Fund,20,5.00
+2007,1,1,BUY,FrontRunner NetNetNet Fund,50,20.00
+2007,6,15,SELL,FrontRunner NetNetNet Fund,20,10.00
+2008,1,1,BUY,FrontRunner NetNetNet Fund,50,40.00
+2008,6,15,SELL,FrontRunner NetNetNet Fund,20,20.00
+2009,1,1,BUY,FrontRunner NetNetNet Fund,50,80.00
+2010,1,1,BUY,FrontRunner NetNetNet Fund,50,160.00
+2010,6,15,SELL,FrontRunner NetNetNet Fund,100,120.00
+2010,12,30,SELL,FrontRunner NetNetNet Fund,90,600.00
+2011,1,15,BUY,FrontRunner NetNetNet Fund,200,350.00
+-1, 2010
